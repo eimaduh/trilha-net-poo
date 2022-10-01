@@ -1,0 +1,15 @@
+/home/maduh/Área de Trabalho/poo/bin/Debug/net6.0/poo
+/home/maduh/Área de Trabalho/poo/bin/Debug/net6.0/poo.deps.json
+/home/maduh/Área de Trabalho/poo/bin/Debug/net6.0/poo.runtimeconfig.json
+/home/maduh/Área de Trabalho/poo/bin/Debug/net6.0/poo.dll
+/home/maduh/Área de Trabalho/poo/bin/Debug/net6.0/poo.pdb
+/home/maduh/Área de Trabalho/poo/obj/Debug/net6.0/poo.csproj.AssemblyReference.cache
+/home/maduh/Área de Trabalho/poo/obj/Debug/net6.0/poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/maduh/Área de Trabalho/poo/obj/Debug/net6.0/poo.AssemblyInfoInputs.cache
+/home/maduh/Área de Trabalho/poo/obj/Debug/net6.0/poo.AssemblyInfo.cs
+/home/maduh/Área de Trabalho/poo/obj/Debug/net6.0/poo.csproj.CoreCompileInputs.cache
+/home/maduh/Área de Trabalho/poo/obj/Debug/net6.0/poo.dll
+/home/maduh/Área de Trabalho/poo/obj/Debug/net6.0/refint/poo.dll
+/home/maduh/Área de Trabalho/poo/obj/Debug/net6.0/poo.pdb
+/home/maduh/Área de Trabalho/poo/obj/Debug/net6.0/poo.genruntimeconfig.cache
+/home/maduh/Área de Trabalho/poo/obj/Debug/net6.0/ref/poo.dll
